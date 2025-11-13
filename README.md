@@ -12,13 +12,5 @@ Muhammad Fadhil Fatkhurrohman
 
 
 
-praktikum
-
-Analisa
-
-big
-
-data
-
-ekonomika
+praktikum Analisa big data ekonomika
 
